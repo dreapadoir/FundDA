@@ -11,3 +11,5 @@ The repository will contain five practical Jupyter notebooks focused around the 
 * Cleansing
 
 A sixth, more comphrensive Jupyter notebook will contain work on theoretical aspects of the Normal Distribution.
+
+## Information
