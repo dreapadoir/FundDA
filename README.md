@@ -27,4 +27,6 @@ A sixth, more comphrensive Jupyter notebook will contain work on theoretical asp
 ## Outliers
 
 ### References
-(https://stackoverflow.com/questions/6181935/how-do-you-create-different-variable-names-while-in-a-loop)
+https://stackoverflow.com/questions/6181935/how-do-you-create-different-variable-names-while-in-a-loop  
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris  
+https://www.kaggle.com/code/rakesh6184/seaborn-plot-to-visualize-iris-data/notebook
