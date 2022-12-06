@@ -6,10 +6,25 @@ The repository will contain five practical Jupyter notebooks focused around the 
 
 * Information
 * Randomness
-* Distributions
 * Bias
+* Outliers
 * Cleansing
 
 A sixth, more comphrensive Jupyter notebook will contain work on theoretical aspects of the Normal Distribution.
 
 ## Information
+
+### References
+
+## Randomness
+
+### References
+
+## Bias
+
+### References
+
+## Outliers
+
+### References
+(https://stackoverflow.com/questions/6181935/how-do-you-create-different-variable-names-while-in-a-loop)
