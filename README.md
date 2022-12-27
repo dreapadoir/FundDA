@@ -38,3 +38,10 @@ https://python.plainenglish.io/3-ways-to-perform-outlier-detection-in-3-lines-of
 https://realpython.com/regex-python-part-2/
 https://favtutor.com/blogs/capitalize-first-letter-python
 https://stackoverflow.com/questions/8934477/making-letters-uppercase-using-re-sub-in-python
+
+## Normal Distribution
+
+## References
+https://en.wikipedia.org/wiki/Normal_distribution 
+https://www.six-sigma-material.com/Normal-Distribution.html 
+https://mathworld.wolfram.com/CentralLimitTheorem.html
