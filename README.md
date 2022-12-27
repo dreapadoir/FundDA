@@ -36,3 +36,4 @@ https://python.plainenglish.io/3-ways-to-perform-outlier-detection-in-3-lines-of
 
 ### References
 https://realpython.com/regex-python-part-2/
+https://favtutor.com/blogs/capitalize-first-letter-python
