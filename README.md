@@ -31,3 +31,8 @@ https://stackoverflow.com/questions/6181935/how-do-you-create-different-variable
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris  
 https://www.kaggle.com/code/rakesh6184/seaborn-plot-to-visualize-iris-data/notebook
 https://python.plainenglish.io/3-ways-to-perform-outlier-detection-in-3-lines-of-code-python-90901d6305f6
+
+## Data Cleansing
+
+### References
+https://realpython.com/regex-python-part-2/
