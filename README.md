@@ -45,3 +45,5 @@ https://stackoverflow.com/questions/8934477/making-letters-uppercase-using-re-su
 https://en.wikipedia.org/wiki/Normal_distribution 
 https://www.six-sigma-material.com/Normal-Distribution.html 
 https://mathworld.wolfram.com/CentralLimitTheorem.html
+https://stackoverflow.com/questions/70202374/how-to-change-histogram-color-based-on-x-axis-in-matplotlib
+https://www.toppr.com/guides/maths-formulas/cpk-formulas
